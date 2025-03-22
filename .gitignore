@@ -1,0 +1,22 @@
+# Node
+node_modules
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Docker
+*.pid
+*.sock
+tmp/
+
+# Editor configs
+.DS_Store
+.idea
+.vscode
+
+# Build output
+dist
+build
